@@ -33702,6 +33702,8 @@
 		"dmg2": "1d4",
 		"dmgType": "B",
 		"weapon": true,
+		"axe": true,
+		"spear": true,
 		"property": [
 			"DH",
 			"2H"
@@ -33959,6 +33961,7 @@
 		"dmg1": "1d8",
 		"dmg2": "1d6",
 		"weapon": true,
+		"axe": true,
 		"property": [
 			"DH",
 			"H",
@@ -34007,6 +34010,7 @@
 		"dmg2": "1d10",
 		"dmgType": "S",
 		"weapon": true,
+		"axe": true,
 		"property": [
 			"S",
 			"V"
@@ -36902,10 +36906,6 @@
 		"wondrous": true,
 		"recharge": "dawn",
 		"charges": 3,
-		"attachedSpells": [
-			"spare the dying",
-			"cure wounds"
-		],
 		"entries": [
 			"While wearing this sash, your carrying capacity doubles. In addition, your movement doesn’t provoke {@action opportunity attack|PHB|opportunity attacks} if you are carrying a friendly creature that has 0 hit points or is dying.",
 			{
